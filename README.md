@@ -9,9 +9,10 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="25" height="25" /> Programming Language
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg)
-![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg)
-![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
-![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![Dart](https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart2.svg)
+![C++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![Solidity](https://ziadoua.github.io/m3-Markdown-Badges/badges/Solidity/solidity2.svg)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Man Technologist" width="25" height="25" /> Frameworks
 ![Flutter](https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg)

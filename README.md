@@ -31,3 +31,6 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt="Instagram">
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

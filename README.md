@@ -35,7 +35,7 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 17 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
 Total Time: 0 secs
 

@@ -18,18 +18,23 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Speech Balloon" width="25" height="25" /> Tools
 
 <p align="center">
+
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio2.svg">
+    
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/SQLite/sqlite2.svg">
+  
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg">
+  
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg">
+  
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg">
 <p/>
     
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Man Technologist" width="25" height="25" /> Frameworks

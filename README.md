@@ -43,6 +43,8 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Django/django2.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg">
+      
 <p/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="25" height="25" /> Socials

@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2025 - To: 06 March 2025
+From: 28 February 2025 - To: 07 March 2025
 
-Total Time: 16 hrs 47 mins
+Total Time: 16 hrs 24 mins
 
-Other             3 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-Dart              2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-JavaScript        1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-Java              1 hr 39 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Python            1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Other             3 hrs 26 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+Dart              2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+Python            1 hr 41 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Java              1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+C++               1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 <!--END_SECTION:waka-->

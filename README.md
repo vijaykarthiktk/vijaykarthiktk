@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 23 hrs 18 mins
+Total Time: 28 hrs 12 mins
 
-Dart         17 hrs 16 mins  ██████████████████▓░░░░░░   74.13 %
-Go           2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-Other        1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Bash         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Dart         21 hrs 58 mins  ███████████████████▒░░░░░   77.92 %
+Go           2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Other        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Bash         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JavaScript   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->

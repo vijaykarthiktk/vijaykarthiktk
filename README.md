@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2025 - To: 18 September 2025
+From: 12 September 2025 - To: 19 September 2025
 
-Total Time: 9 hrs 7 mins
+Total Time: 6 hrs 39 mins
 
-TypeScript   3 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.53 %
-Python       2 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.83 %
-JSON         1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Other        1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Bash         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+TypeScript   3 hrs 25 mins   █████████████░░░░░░░░░░░░   51.37 %
+Other        1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+JSON         1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+Bash         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+Git Config   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->

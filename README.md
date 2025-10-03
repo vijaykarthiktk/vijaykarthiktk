@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2025 - To: 30 September 2025
+From: 25 September 2025 - To: 02 October 2025
 
-Total Time: 24 hrs 17 mins
+Total Time: 34 hrs 25 mins
 
-Rust         11 hrs 8 mins   ███████████▒░░░░░░░░░░░░░   45.88 %
-Other        10 hrs 22 mins  ██████████▓░░░░░░░░░░░░░░   42.70 %
-TypeScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Git Config   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-JavaScript   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Rust         20 hrs 15 mins  ██████████████▓░░░░░░░░░░   58.85 %
+Other        10 hrs 47 mins  ████████░░░░░░░░░░░░░░░░░   31.34 %
+Dart         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Git Config   24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->

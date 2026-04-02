@@ -71,14 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-Total Time: 26 mins
+Total Time: 1 hr 19 mins
 
-Git Config   12 mins               ███████████▓░░░░░░░░░░░░░   46.70 %
-Python       9 mins                █████████▒░░░░░░░░░░░░░░░   37.47 %
-Text         3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Markdown     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Python       47 mins               ███████████████░░░░░░░░░░   60.07 %
+Text         18 mins               ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+Git Config   12 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->

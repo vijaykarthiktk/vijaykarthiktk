@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 20 June 2026 - To: 27 June 2026
 
-Total Time: 14 hrs 1 min
+Total Time: 14 hrs 14 mins
 
-TypeScript   4 hrs                 ███████░░░░░░░░░░░░░░░░░░   28.59 %
-Other        3 hrs 27 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
-Python       1 hr 53 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-YAML         1 hr 33 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-Markdown     1 hr 31 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+TypeScript   4 hrs 39 mins         ████████▒░░░░░░░░░░░░░░░░   32.69 %
+Other        3 hrs 18 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
+Python       1 hr 53 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+Markdown     1 hr 37 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+YAML         1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 ```
 
 <!--END_SECTION:waka-->

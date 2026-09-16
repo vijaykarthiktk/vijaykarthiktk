@@ -71,15 +71,15 @@ It's me, Vijay. you've never heard of me And i've never thought of writing a REA
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2026 - To: 14 September 2026
+From: 08 September 2026 - To: 15 September 2026
 
-Total Time: 9 hrs 32 mins
+Total Time: 7 hrs 14 mins
 
-Liquid       2 hrs 31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.53 %
-CSS          1 hr 56 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-JSON         1 hr 36 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-Go           46 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Bash         45 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+Liquid       1 hr 45 mins          ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+Go           1 hr 22 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.09 %
+Bash         1 hr 1 min            ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Svelte       39 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+CSS          35 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
 ```
 
 <!--END_SECTION:waka-->
